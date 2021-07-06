@@ -7,7 +7,7 @@ body{
     background-color: rgb(11,13,23);
 }
 .nav-logo{
-    width: 45%;
+    width: 60%;
     display: flex;
 }
 .nav-logo span{
@@ -19,7 +19,7 @@ body{
 
 }
 .nav-items{
-    width: 55%;
+    width: 40%;
     display: flex;
 
 }
@@ -32,7 +32,7 @@ body{
 }
 .nav-items ul li a{
     text-decoration: none;
-    color: rgba(11, 202, 36, 0.733);
+    color:rgb(19, 184, 13);
     display: inline-block;
      
     font-size: 25px;   
@@ -55,7 +55,7 @@ body{
     text-decoration: none;
     display: inline-block;
     font-weight: bold;
-    background-image:linear-gradient(orange, tomato);
+    background-image:linear-gradient(rgb(8, 182, 37), rgb(6, 89, 122));
     padding: 15px 40px;
     border-radius: 20px;
     margin: 10px;
@@ -96,14 +96,14 @@ h2{
 
 
   .oreng{
-      color: orange;
+      color: rgb(19, 184, 13);
   }
 
   .about{
       display: flex;
       background-image: url(images/Frame\ 57.jpg);
       background-repeat: no-repeat;
-      margin-top: 500px;
+      margin-top: 300px;
 }
 #about{
     
