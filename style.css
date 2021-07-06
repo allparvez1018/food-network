@@ -11,7 +11,7 @@ body{
     display: flex;
 }
 .nav-logo span{
-    color: tomato;
+    color: rgba(11, 202, 36, 0.733);
     margin-left: 8%;
     margin-top: 1%;
     font-size: 45px;
@@ -32,7 +32,7 @@ body{
 }
 .nav-items ul li a{
     text-decoration: none;
-    color:rgb(255, 123, 0);
+    color: rgba(11, 202, 36, 0.733);
     display: inline-block;
      
     font-size: 25px;   
@@ -79,7 +79,7 @@ margin-left: 40px;
 }
 
 p {
-font-size: 30px;
+font-size: 15px;
 
 }
 
@@ -89,6 +89,10 @@ font-size: 30px;
 
 h1{
 font-size: 70px;}
+
+h2{
+    font-size: 30px;
+}
 
 
   .oreng{
@@ -125,18 +129,19 @@ font-size: 70px;}
      text-align: center;
  }
  .recipie-list{
-    margin:0 10%;
+    margin:0 4%;
     display: flex;
+    
  }
 
 
 
  .Recipie{
      width: 30%;
-     margin: 0 4%;
+     margin:2%;
      box-shadow: 0px 0px 50px gray;
-    border-radius: 10px;
-    padding: 40px;
+    border-radius: 15px;
+    padding: 35px;
      
 
  }
@@ -144,3 +149,23 @@ font-size: 70px;}
     width: 100%;
 }
 
+.last-footer{
+    background: rgb(11,13,23);
+    margin-top: 250px;
+    padding-bottom: 40px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.last-color{
+ color: rgb(13, 206, 142);
+
+}
+
+.last-footer h2{ color: rgb(128, 122, 122);
+
+}
+
+.last-footer p{
+color: rgb(114, 114, 110);
+}
